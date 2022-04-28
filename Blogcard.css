@@ -1,0 +1,25 @@
+.card{
+    background-color: rgb(231, 252, 231);
+    color: rgb(156, 7, 57);
+    width:300px;
+    padding-bottom: 40px;
+    height: 400px;
+    border-radius:25px;
+     
+}
+    .card:hover{
+        box-shadow: 0px 0px 10px 10px grey; 
+    }  
+
+.text{
+        font-size: 20px;
+        color:black;
+}
+.text>h1{
+         color: black;
+         padding-left: 30px;
+}
+    .image>img{
+                border-top-left-radius:25px;
+                border-top-right-radius:25px;
+    }
